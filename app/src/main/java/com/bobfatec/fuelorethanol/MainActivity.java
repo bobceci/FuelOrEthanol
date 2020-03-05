@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.text.NumberFormat;
 
@@ -31,8 +32,12 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+       // Toast.makeText(this, "Versão final", Toast.LENGTH_SHORT).show(); // Não aparecer ao iniciar tela
+
 
         priceGasolinaText = findViewById(R.id.priceGasolinaText);
 
