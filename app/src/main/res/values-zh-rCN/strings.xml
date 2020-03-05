@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" 汽油或乙醇"</string>
+    <string name="fuel">" 最好的燃料"</string>
+    <string name="textLabelGasolina">" 汽油价格"</string>
+    <string name="textLabelEtanol">" 一升乙醇的价格"</string>
+    <string name="etanol">乙醇</string>
+    <string name="gasolina">汽油</string>
+    <string name="vazio">零价格</string>
+</resources>

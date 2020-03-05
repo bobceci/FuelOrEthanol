@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gasoline or Ethanol</string>
+    <string name="fuel">The best fuel</string>
+    <string name="textLabelGasolina">Price of liter of gasoline</string>
+    <string name="textLabelEtanol">Price of liter of ethanol</string>
+    <string name="gasolina">Gasoline</string>
+    <string name="etanol">Ethanol</string>
+    <string name="vazio">Zeroed prices</string>
+</resources>
